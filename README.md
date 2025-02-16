@@ -38,8 +38,8 @@
                  <h3 class="text-lg font-bold">Week 1 - 16th February 2025</h3>
                  <p class="text-sm">
                  <strong>Tasks:</strong>  I designed my GitHub portfolio page to showcase my projects, technical contributions, and problem-solving journey.  
-                   The portfolio highlights key projects, implemented features, challenges faced, and solutions applied, providing recruiters  
-                   with clear insights into my growth, skills, and impact as a software engineer.
+                   The portfolio highlights key projects, implemented features, challenges faced, and solutions applied, providing  
+                   clear insights into my growth, skills, and impact as a software engineer.
                  </p>
                 <p class="text-sm">
                 <strong>Challenges:</strong>  
@@ -136,5 +136,9 @@
             </section>
         </div>
     </main>
+     <!-- Footer -->
+    <footer class="text-center py-4 border-t border-gray-300 mt-6">
+        <p class="text-sm">&copy; 2025 Bede Hampo | Built with Github Page</p>
+    </footer>
 </body>
 </html>
