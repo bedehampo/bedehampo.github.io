@@ -114,6 +114,42 @@
                      Product Development Stage: MVP, UI/UX Iteration, and Feature Refinement
                     </p>
                 </div>
+                 <div class="mb-4">
+                    <h3 class="text-lg font-bold">Euphoria</h3>
+                    <p class="text-sm"><strong>Industry:</strong> Restuarant</p>
+                    <p class="text-sm"><strong>Role:</strong> Fullstack Engineer</p>
+                    <p class="mt-2 text-sm">
+                     Implemented using NextJs and Vercel.
+                    </p>
+                     <a href="https://euphoria-by-sujimoto.vercel.app/ class="text-blue-600 underline text-sm block">Website</a>
+                </div>
+                 <div class="mb-4">
+                    <h3 class="text-lg font-bold">Sujimoto Residence</h3>
+                    <p class="text-sm"><strong>Industry:</strong> Real Estate</p>
+                    <p class="text-sm"><strong>Role:</strong> Fullstack Engineer</p>
+                    <p class="mt-2 text-sm">
+                     Implemented using React, and Digital Ocean.
+                    </p>
+                     <a href="https://www.sujimotoresidence.com/" class="text-blue-600 underline text-sm block">Website</a>
+                </div>
+                <div class="mb-4">
+                    <h3 class="text-lg font-bold">Lucrezia De Medici</h3>
+                    <p class="text-sm"><strong>Industry:</strong> Real Estate</p>
+                    <p class="text-sm"><strong>Role:</strong> Fullstack Engineer</p>
+                    <p class="mt-2 text-sm">
+                     Implemented using React, and Digital Ocean.
+                    </p>
+                     <a href="https://landing.lucreziabysujimoto.com/" class="text-blue-600 underline text-sm block">Website</a>
+                </div>
+                <div class="mb-4">
+                    <h3 class="text-lg font-bold">Leonardo</h3>
+                    <p class="text-sm"><strong>Industry:</strong> Real Estate</p>
+                    <p class="text-sm"><strong>Role:</strong> Fullstack Engineer</p>
+                    <p class="mt-2 text-sm">
+                     Implemented using React, and Digital Ocean.
+                    </p>
+                     <a href="https://landing.leonardobysujimoto.com/" class="text-blue-600 underline text-sm block">Website</a>
+                </div>
             </section>
         </div>
     </main>
