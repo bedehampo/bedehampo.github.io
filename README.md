@@ -26,11 +26,22 @@
     <!-- Main Content -->
    <main class="container py-3">
     <div class="row g-4">
+        <!-- Activity Logs Column -->
+        <section class="col-lg-6 col-md-12 bg-white border border-gray-300 rounded-lg p-6">
+            <h2 class="text-2xl font-semibold mb-4">Activity Logs</h2>
+            <div class="mb-4">
+                <h3 class="text-lg font-bold">Week 1 - September 2025</h3>
+                <p class="text-sm"><strong>Tasks:</strong> Implemented API endpoints.</p>
+                <p class="text-sm"><strong>Challenges:</strong> Debugging CORS issues.</p>
+                <p class="text-sm"><strong>Solutions:</strong> Adjusted CORS settings in the server configuration.</p>
+                <p class="text-sm"><strong>Learned:</strong> Proper CORS handling for cross-origin requests.</p>
+            </div>
+        </section>
         <!-- Projects Column -->
         <section class="col-lg-6 col-md-12 bg-white border border-gray-300 rounded-lg p-4">
             <h2 class="text-2xl font-semibold mb-4">Projects</h2>
             <div class="mb-4">
-                <h3 class="text-lg font-bold">MotoPay</h3>
+                <h3 class="text-lg font-bold">MotoPay & Motobills</h3>
                 <p class="text-sm"><strong>Role:</strong> Backend Engineer</p>
                 <p class="text-sm"><strong>Features Built:</strong></p>
                 <ul class="list-disc ml-4 text-sm">
@@ -57,7 +68,9 @@
                 <p class="mt-2 text-sm">
                  Implemented using SpringBoot, ExpressJs, NestJs, MySQL, Postgres, MongoDB, Flutter, NextJs, Azure Cloud, Microservice and  Docker containerization.
                 </p>
-                <a href="https://www.motopayng.com/" class="text-blue-600 underline text-sm">Project Link</a>
+                 <a href="https://web.motobills.com/login" class="text-blue-600 underline text-sm">Motobills Application</a>
+                 <a href="https://www.motobills.com/" class="text-blue-600 underline text-sm">Motobills website</a>
+                 <a href="https://www.motopayng.com/" class="text-blue-600 underline text-sm">Motopay website</a>
                 <p class="mt-2 text-sm">
                  Product Development Stage: Iteration & Beta Testing.
                 </p>
@@ -65,19 +78,48 @@
                  <strong>Note:</strong> I can demo the product on request.
                </p>
             </div>
+            <div class="mb-4">
+                <h3 class="text-lg font-bold">Help App Africa</h3>
+                <p class="text-sm"><strong>Role:</strong> Backend Engineer & DevOps Engineer</p>
+                <p class="text-sm"><strong>Features Built:</strong></p>
+                <ul class="list-disc ml-4 text-sm">
+                    <li>Lockfund</li>
+                    <li>SavingTarget</li>
+                    <li>Saving-Limit</li>
+                    <li>Personalized amount recommendation using embedding</li>
+                    <li>Integrated Ask-Moto AI chatbot</li>
+                    <li>Shop and shop settings management</li>
+                    <li>Shop staff management</li>
+                    <li>Product and product management</li>
+                    <li>Product variation management</li>
+                    <li>Cart and order management</li>
+                    <li>Dispute management</li>
+                    <li>Category DB design (OneToMany)</li>
+                    <li>Sub-category DB design (OneToMany)</li>
+                    <li>Variation DB design (ManyToMany)</li>
+                    <li>Customer and product segmentation algorithm</li>
+                    <li>All admin endpoints for e-commerce</li>
+                    <li>RBAC admin design</li>
+                    <li>Profile management micro-service</li>
+                    <li>Development of POS API endpoints</li>
+                </ul>
+                <p class="mt-2 text-sm">
+                 Implemented using SpringBoot, ExpressJs, NestJs, MySQL, Postgres, MongoDB, Flutter, NextJs, Azure Cloud, Microservice and  Docker containerization.
+                </p>
+                 <a href="https://web.motobills.com/login" class="text-blue-600 underline text-sm">Motobills Application</a>
+                 <a href="https://www.motobills.com/" class="text-blue-600 underline text-sm">Motobills website</a>
+                 <a href="https://www.motopayng.com/" class="text-blue-600 underline text-sm">Motopay website</a>
+                <p class="mt-2 text-sm">
+                 Product Development Stage: Iteration & Beta Testing.
+                </p>
+                <p class="mt-2 text-sm text-gray-600">
+                 <strong>Note:</strong> I can demo the product on request.
+               </p>
+            </div>
+            
         </section>
 
-        <!-- Activity Logs Column -->
-        <section class="col-lg-6 col-md-12 bg-white border border-gray-300 rounded-lg p-6">
-            <h2 class="text-2xl font-semibold mb-4">Activity Logs</h2>
-            <div class="mb-4">
-                <h3 class="text-lg font-bold">Week 1 - September 2025</h3>
-                <p class="text-sm"><strong>Tasks:</strong> Implemented API endpoints.</p>
-                <p class="text-sm"><strong>Challenges:</strong> Debugging CORS issues.</p>
-                <p class="text-sm"><strong>Solutions:</strong> Adjusted CORS settings in the server configuration.</p>
-                <p class="text-sm"><strong>Learned:</strong> Proper CORS handling for cross-origin requests.</p>
-            </div>
-        </section>
+        
     </div>
 </main>
 
