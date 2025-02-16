@@ -10,7 +10,7 @@
     <!-- Header -->
     <header class="text-center pb-10 border-b border-gray-300">
                 <!-- Social Links -->
-        <div class="flex justify-center mt-4 space-x-6">
+        <div class="flex justify-start mt-4 space-x-6">
             <a href="https://www.linkedin.com/in/hampoechebede" class="text-xl text-blue-600" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a href="mailto:hampoherobede@gmail.com" class="text-xl text-red-600" target="_blank"><i class="fas fa-envelope"></i></a>
             <a href="https://www.youtube.com/@bede_hampo" class="text-xl text-red-500" target="_blank"><i class="fab fa-youtube"></i></a>
