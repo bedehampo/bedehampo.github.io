@@ -10,6 +10,7 @@
     <header class="text-center py-10 border-b border-gray-300">
         <h1 class="text-5xl font-extrabold tracking-wide">Bede E. Hampo</h1>
         <p class="text-xl mt-2 font-light">SWE - Backend Engineer | DevOps & Machine Learning Enthusiast</p>
+        <p class="text-xl mt-2 font-light">I am a Software Engineer specializing in backend systems, database design, and building scalable systems.<br/>I build efficient services using TypeScript, Python, and Java. While I have experience with frontend and mobile development, my core strength lies in backend logic and building scalable systems. I'm currently improving my DevOps skills with tools like Docker and CI/CD pipelines and continuously learning through hands-on projects, including machine learning applications.</p>
         <!-- Social Links -->
         <div class="flex justify-center mt-4 space-x-6">
             <a href="https://www.linkedin.com/in/hampoechebede" class="text-xl text-blue-600" target="_blank"><i class="fab fa-linkedin"></i></a>
