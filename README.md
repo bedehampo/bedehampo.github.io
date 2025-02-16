@@ -9,15 +9,16 @@
 <body class="bg-white text-black font-sans">
     <!-- Header -->
     <header class="text-center pb-10 border-b border-gray-300">
+        <p class="text-xl mt-2 font-light text-justify">SWE - Backend Engineer | DevOps & Machine Learning Enthusiast</p>
                 <!-- Social Links -->
         <div class="flex justify-start mt-4 space-x-6">
             <a href="https://www.linkedin.com/in/hampoechebede" class="text-xl text-blue-600" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a href="mailto:hampoherobede@gmail.com" class="text-xl text-red-600" target="_blank"><i class="fas fa-envelope"></i></a>
-            <a href="https://www.youtube.com/@bede_hampo" class="text-xl text-red-500" target="_blank"><i class="fab fa-youtube"></i></a>
             <a href="https://github.com/bedehampo" class="text-xl text-gray-900" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="mailto:hampoherobede@gmail.com" class="text-xl text-red-600" target="_blank"><i class="fas fa-envelope"></i></a>
             <a href="https://dev.to/bede_hampo" class="text-xl text-black" target="_blank"><i class="fab fa-dev"></i></a>
+            <a href="https://www.youtube.com/@bede_hampo" class="text-xl text-red-500" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.instagram.com/bede_hampo/" class="text-primary text-decoration-none border-0" target="_blank"><i class="fab fa-instagram"></i></a>
         </div>
-        <p class="text-xl mt-2 font-light text-justify">SWE - Backend Engineer | DevOps & Machine Learning Enthusiast</p>
         <p class="text-l mt-2 font-light text-justify">I am a Software Engineer specialising in backend systems, database design, and building scalable systems.<br/>I build efficient services using TypeScript, Python, and Java. While I have experience with frontend and mobile development, my core strength lies in backend logic and building scalable systems. I'm currently improving my DevOps skills with tools like Docker and CI/CD pipelines and continuously learning through hands-on projects, including machine learning applications.</p>
 
     </header>
