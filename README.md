@@ -29,11 +29,11 @@
         <section class="bg-white border border-gray-300 rounded-lg p-4">
             <h2 class="text-2xl font-semibold mb-4">Projects</h2>
             <div class="mb-4">
-                <h3 class="text-lg font-bold">Project Name</h3>
+                <h3 class="text-lg font-bold">MotoPay</h3>
                 <p class="text-sm"><strong>Role:</strong> Backend Engineer</p>
                 <p class="text-sm"><strong>Features Built:</strong></p>
                 <ul class="list-disc ml-4 text-sm">
-                    <li>Authentication with JWT</li>
+                    <li><br>Lockfund<br/>: A platform that helps users save money for a specific duration, promoting disciplined financial planning.</li>
                     <li>Payment Integration with Stripe</li>
                 </ul>
                 <p class="mt-2 text-sm">Implemented using NestJS and MongoDB with Docker containerization.</p>
