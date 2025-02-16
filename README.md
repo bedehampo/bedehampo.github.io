@@ -9,7 +9,7 @@
 <body class="bg-white text-black font-sans">
     <!-- Header -->
     <header class="text-center pb-10 border-b border-gray-300">
-        <p class="text-xl mt-2 font-light text-justify">SWE - Backend Engineer | DevOps & Machine Learning Enthusiast</p>
+        <p class="text-xl mt-2 font-light text-justify">Software Engineer | Backend Specialist | DevOps & ML Enthusiast</p>
         <!-- Social Links -->
         <div class="flex justify-start mt-4 space-x-6">
             <a href="https://www.linkedin.com/in/hampoechebede" class="text-xl text-blue-600" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -19,7 +19,10 @@
             <a href="https://www.youtube.com/@bede_hampo" class="text-xl text-red-500" target="_blank"><i class="fab fa-youtube"></i></a>
             <a href="https://www.instagram.com/bede_hampo/" class="text-primary text-decoration-none border-0" target="_blank"><i class="fab fa-instagram"></i></a>
         </div>
-        <p class="text-l mt-2 font-light text-justify max-w-4xl">I am a Software Engineer specialising in backend systems, database design, and building scalable systems. I build efficient services using TypeScript, Python, and Java. While I have experience with frontend and mobile development, my core strength lies in backend logic and building scalable systems. I'm currently improving my DevOps skills with tools like Docker and CI/CD pipelines and continuously learning through hands-on projects, including machine learning applications.</p>
+        <p class="text-l mt-2 font-light text-justify max-w-4xl">
+        Passionate about building scalable backend systems, optimizing databases, and solving complex engineering problems. Experienced in TypeScript, Python, Java, and 
+        DevOps practices, with a keen interest in machine learning.
+        </p>
     </header>
 
     <!-- Main Content -->
@@ -28,13 +31,21 @@
             <!-- Activity Logs Column -->
             <section class="bg-white border border-gray-300 rounded-lg p-6">
                 <h2 class="text-2xl font-semibold mb-4">Activity Logs</h2>
+                <p class="text-sm italic">
+                  The activity log serves as a daily record of tasks completed, challenges encountered, solutions implemented, and relevant code snippets.
+                </p>
                 <div class="mb-4">
-                    <h3 class="text-lg font-bold">Week 1 - September 2025</h3>
-                    <p class="text-sm"><strong>Tasks:</strong> Implemented API endpoints.</p>
-                    <p class="text-sm"><strong>Challenges:</strong> Debugging CORS issues.</p>
-                    <p class="text-sm"><strong>Solutions:</strong> Adjusted CORS settings in the server configuration.</p>
-                    <p class="text-sm"><strong>Learned:</strong> Proper CORS handling for cross-origin requests.</p>
-                </div>
+                 <h3 class="text-lg font-bold">Week 1 - 16th February 2025</h3>
+                 <p class="text-sm">
+                 <strong>Tasks:</strong>  I designed my GitHub portfolio page to showcase my projects, technical contributions, and problem-solving journey.  
+                   The portfolio highlights key projects, implemented features, challenges faced, and solutions applied, providing recruiters  
+                   with clear insights into my growth, skills, and impact as a software engineer.
+                 </p>
+                <p class="text-sm">
+                <strong>Challenges:</strong>  
+                 Frequent manual refreshes were required to track and confirm design updates.
+                </p>
+             </div>
             </section>
 
             <!-- Projects Column -->
@@ -46,32 +57,17 @@
                     <p class="text-sm"><strong>Role:</strong> Backend Engineer</p>
                     <p class="text-sm"><strong>Features Built:</strong></p>
                     <ul class="list-disc ml-4 text-sm">
-                        <li>Lockfund</li>
-                        <li>SavingTarget</li>
-                        <li>Saving-Limit</li>
-                        <li>Personalized amount recommendation using embedding</li>
-                        <li>Integrated Ask-Moto AI chatbot</li>
-                        <li>Shop and shop settings management</li>
-                        <li>Shop staff management</li>
-                        <li>Product and product management</li>
-                        <li>Product variation management</li>
-                        <li>Cart and order management</li>
-                        <li>Dispute management</li>
-                        <li>Category DB design (OneToMany)</li>
-                        <li>Sub-category DB design (OneToMany)</li>
-                        <li>Variation DB design (ManyToMany)</li>
-                        <li>Customer and product segmentation algorithm</li>
-                        <li>All admin endpoints for e-commerce</li>
-                        <li>RBAC admin design</li>
-                        <li>Profile management micro-service</li>
-                        <li>Development of POS API endpoints</li>
+                        <li>Developed Lockfund, SavingTarget, and Saving-Limit features</li>
+                        <li>Built personalized amount recommendations using embeddings</li>
+                        <li>Integrated Ask-Moto AI chatbot for customer support</li>
+                        <li>Implemented product management, cart, and order workflows</li>
+                        <li>Designed customer and product segmentation algorithms</li>
+                        <li>Developed POS API endpoints and RBAC admin features</li>
                     </ul>
-                    <p class="mt-2 text-sm">
-                     Implemented using SpringBoot, ExpressJs, NestJs, MySQL, Postgres, MongoDB, Flutter, NextJs, Azure Cloud, Microservice and Docker containerization.
-                    </p>
-                    <a href="https://web.motobills.com/login" class="text-blue-600 underline text-sm block">Motobills Application</a>
-                    <a href="https://www.motobills.com/" class="text-blue-600 underline text-sm block">Motobills website</a>
-                    <a href="https://www.motopayng.com/" class="text-blue-600 underline text-sm block">Motopay website</a>
+                    <p class="mt-2 text-sm">Tech Stack: Spring Boot, Express.js, NestJS, MySQL, PostgreSQL, MongoDB, Flutter, Next.js, Azure Cloud, Docker</p>
+                    <a href="https://web.motobills.com/login" class="text-blue-600 underline text-sm block" target="_blank">Motobills Application</a>
+                    <a href="https://www.motobills.com/" class="text-blue-600 underline text-sm block" target="_blank">Motobills website</a>
+                    <a href="https://www.motopayng.com/" class="text-blue-600 underline text-sm block" target="_blank">Motopay website</a>
                     <p class="mt-2 text-sm">
                      Product Development Stage: Iteration & Beta Testing.
                     </p>
@@ -87,29 +83,16 @@
                     <p class="text-sm"><strong>Role:</strong> Backend Engineer & DevOps Engineer</p>
                     <p class="text-sm"><strong>Features Built:</strong></p>
                     <ul class="list-disc ml-4 text-sm">
-                        <li>Client Management</li>
-                        <li>Service Provider Management</li>
-                        <li>Authorization and Authentication</li>
-                        <li>Booking Management</li>
-                        <li>Geospatial Query</li>
-                        <li>Document Verification - QoreId</li>
-                        <li>Payment Integration - Nomba</li>
-                        <li>Setup Dev and Production Servers</li>
-                        <li>Live Chat</li>
-                        <li>User Type Resource Control</li>
-                        <li>Admin Management</li>
-                        <li>RBAC Authorization</li>
-                        <li>System Architecture Design</li>
-                        <li>Google and Apple OAuth</li>
-                        <li>Dispute Management</li>
-                        <li>Admin Analytics</li>
+                         <li>Implemented client, provider, and booking management services</li>
+                        <li>Integrated QoreID for document verification and Nomba for payments</li>
+                        <li>Built live chat functionality and geospatial queries</li>
+                        <li>Deployed applications using AWS EC2, EIP, and Docker</li>
+                        <li>Developed RBAC for access control and admin analytics</li>
                     </ul>
-                    <p class="mt-2 text-sm">
-                     Implemented using NestJs, MongoDB, Flutter, NextJs, AWS EC2, AWS EIP, Monolithe, and Docker.
-                    </p>
-                     <a href="https://play.google.com/store/apps/details?id=com.helpappafrica.helpapp" class="text-blue-600 underline text-sm block">MVP APP(Playstore)</a>
-                     <a href="https://apps.apple.com/ng/app/help-app-africa/id6737198514" class="text-blue-600 underline text-sm block">MVP APP(iOS)</a>
-                     <a href="https://www.helpappafrica.com/" class="text-blue-600 underline text-sm block">Website</a>
+                    <p class="mt-2 text-sm">Tech Stack: NestJS, MongoDB, Flutter, Next.js, AWS, Docker</p>
+                     <a href="https://play.google.com/store/apps/details?id=com.helpappafrica.helpapp" class="text-blue-600 underline text-sm block" target="_blank">MVP APP(Playstore)</a>
+                     <a href="https://apps.apple.com/ng/app/help-app-africa/id6737198514" class="text-blue-600 underline text-sm block" target="_blank">MVP APP(iOS)</a>
+                     <a href="https://www.helpappafrica.com/" class="text-blue-600 underline text-sm block" target="_blank">Website</a>
                     <p class="mt-2 text-sm">
                      Product Development Stage: MVP, UI/UX Iteration, and Feature Refinement
                     </p>
@@ -119,36 +102,36 @@
                     <p class="text-sm"><strong>Industry:</strong> Restuarant</p>
                     <p class="text-sm"><strong>Role:</strong> Fullstack Engineer</p>
                     <p class="mt-2 text-sm">
-                     Implemented using NextJs and Vercel.
+                     Tech Stack: NextJs and Vercel.
                     </p>
-                     <a href="https://euphoria-by-sujimoto.vercel.app/" class="text-blue-600 underline text-sm block">Website</a>
+                     <a href="https://euphoria-by-sujimoto.vercel.app/" class="text-blue-600 underline text-sm block" target="_blank">Website</a>
                 </div>
                  <div class="mb-4">
                     <h3 class="text-lg font-bold">Sujimoto Residence</h3>
                     <p class="text-sm"><strong>Industry:</strong> Real Estate</p>
                     <p class="text-sm"><strong>Role:</strong> Fullstack Engineer</p>
                     <p class="mt-2 text-sm">
-                     Implemented using React, and Digital Ocean.
+                     Tech Stack: React, and Digital Ocean.
                     </p>
-                     <a href="https://www.sujimotoresidence.com/" class="text-blue-600 underline text-sm block">Website</a>
+                     <a href="https://www.sujimotoresidence.com/" class="text-blue-600 underline text-sm block" target="_blank">Website</a>
                 </div>
                 <div class="mb-4">
                     <h3 class="text-lg font-bold">Lucrezia De Medici</h3>
                     <p class="text-sm"><strong>Industry:</strong> Real Estate</p>
                     <p class="text-sm"><strong>Role:</strong> Fullstack Engineer</p>
                     <p class="mt-2 text-sm">
-                     Implemented using React, and Digital Ocean.
+                     Tech Stack: React, and Digital Ocean.
                     </p>
-                     <a href="https://landing.lucreziabysujimoto.com/" class="text-blue-600 underline text-sm block">Website</a>
+                     <a href="https://landing.lucreziabysujimoto.com/" class="text-blue-600 underline text-sm block" target="_blank">Website</a>
                 </div>
                 <div class="mb-4">
                     <h3 class="text-lg font-bold">Leonardo</h3>
                     <p class="text-sm"><strong>Industry:</strong> Real Estate</p>
                     <p class="text-sm"><strong>Role:</strong> Fullstack Engineer</p>
                     <p class="mt-2 text-sm">
-                     Implemented using React, and Digital Ocean.
+                     Tech Stack: React, and Digital Ocean.
                     </p>
-                     <a href="https://landing.leonardobysujimoto.com/" class="text-blue-600 underline text-sm block">Website</a>
+                     <a href="https://landing.leonardobysujimoto.com/" class="text-blue-600 underline text-sm block" target="_blank">Website</a>
                 </div>
             </section>
         </div>
