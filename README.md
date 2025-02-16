@@ -33,19 +33,36 @@
                 <p class="text-sm"><strong>Role:</strong> Backend Engineer</p>
                 <p class="text-sm"><strong>Features Built:</strong></p>
                 <ul class="list-disc ml-4 text-sm">
-                    <li>Lockfund.</li>
-                    <li>SavingTarget.</li>
-                    <li>Saving-Limit.</li>
-                    <li>Personalise amount recommendation using embedding.</li>
-                    <li>Integrated Ask-Moto AI chatbot.</li>
-                    <li>Create shop & shop settings.</li>
-                    <li>Shop staff management.</li>
+                    <li>Lockfund</li>
+                    <li>SavingTarget</li>
+                    <li>Saving-Limit</li>
+                    <li>Personalized amount recommendation using embedding</li>
+                    <li>Integrated Ask-Moto AI chatbot</li>
+                    <li>Shop and shop settings management</li>
+                    <li>Shop staff management</li>
+                    <li>Product and product management</li>
+                    <li>Product variation management</li>
+                    <li>Cart and order management</li>
+                    <li>Dispute management</li>
+                    <li>Category DB design (OneToMany)</li>
+                    <li>Sub-category DB design (OneToMany)</li>
+                    <li>Variation DB design (ManyToMany)</li>
+                    <li>Customer and product segmentation algorithm</li>
+                    <li>All admin endpoints for e-commerce</li>
+                    <li>RBAC admin design</li>
                 </ul>
-                <p class="mt-2 text-sm">Implemented using NestJS and MongoDB with Docker containerization.</p>
-                <p class="mt-2 text-sm">Code Snippet:</p>
-                <pre class="bg-gray-200 p-3 text-xs rounded"><code>const jwt = require('jsonwebtoken');
-const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET);</code></pre>
-                <a href="#" class="text-blue-600 underline text-sm">Project Link</a>
+                <p class="mt-2 text-sm">
+                 Implemented using SpringBoot, ExpressJs, NestJs, MySQL, Postgres, MongoDB, Flutter, NextJs, Azure Cloud, Microservice and  Docker 
+                 containerization.
+                </p>
+                <a href="https://www.motopayng.com/" class="text-blue-600 underline text-sm">Project Link</a>
+                <p class="mt-2 text-sm">
+                 Product Development Stage: Iteration & Beta Testing.
+                </p>
+                <p class="mt-2 text-sm text-gray-600">
+                 <strong>Note:</strong> I can demo the product on request.
+               </p>
+
             </div>
         </section>
 
