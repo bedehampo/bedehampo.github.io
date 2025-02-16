@@ -69,9 +69,9 @@
                     <p class="mt-2 text-sm">
                      Implemented using SpringBoot, ExpressJs, NestJs, MySQL, Postgres, MongoDB, Flutter, NextJs, Azure Cloud, Microservice and Docker containerization.
                     </p>
-                    <a href="https://web.motobills.com/login" class="text-blue-600 underline text-sm">Motobills Application</a></br>
-                    <a href="https://www.motobills.com/" class="text-blue-600 underline text-sm">Motobills website</a></br>
-                    <a href="https://www.motopayng.com/" class="text-blue-600 underline text-sm">Motopay website</a>
+                    <a href="https://web.motobills.com/login" class="text-blue-600 underline text-sm block">Motobills Application</a>
+                    <a href="https://www.motobills.com/" class="text-blue-600 underline text-sm block">Motobills website</a>
+                    <a href="https://www.motopayng.com/" class="text-blue-600 underline text-sm block">Motopay website</a>
                     <p class="mt-2 text-sm">
                      Product Development Stage: Iteration & Beta Testing.
                     </p>
@@ -107,9 +107,9 @@
                     <p class="mt-2 text-sm">
                      Implemented using NestJs, MongoDB, Flutter, NextJs, AWS EC2, AWS EIP, Monolithe, and Docker.
                     </p>
-                     <a href="https://play.google.com/store/apps/details?id=com.helpappafrica.helpapp" class="text-blue-600 underline text-sm">MVP APP(Playstore)</a>
-                     <a href="https://apps.apple.com/ng/app/help-app-africa/id6737198514" class="text-blue-600 underline text-sm">MVP APP(iOS)</a>
-                     <a href="https://www.helpappafrica.com/" class="text-blue-600 underline text-sm">Website</a>
+                     <a href="https://play.google.com/store/apps/details?id=com.helpappafrica.helpapp" class="text-blue-600 underline text-sm block">MVP APP(Playstore)</a>
+                     <a href="https://apps.apple.com/ng/app/help-app-africa/id6737198514" class="text-blue-600 underline text-sm block">MVP APP(iOS)</a>
+                     <a href="https://www.helpappafrica.com/" class="text-blue-600 underline text-sm block">Website</a>
                     <p class="mt-2 text-sm">
                      Product Development Stage: MVP, UI/UX Iteration, and Feature Refinement
                     </p>
