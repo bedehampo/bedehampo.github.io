@@ -7,8 +7,8 @@
 </head>
 <body class="bg-white text-black font-sans">
     <!-- Header -->
-    <header class="text-center pb-10 ">
-        <p class="text-xl mt-2 font-light text-justify border-b border-gray-300">SWE - Backend Engineer | DevOps & Machine Learning Enthusiast</p>
+    <header class="text-center pb-10 border-b border-gray-300">
+        <p class="text-xl mt-2 font-light text-justify">SWE - Backend Engineer | DevOps & Machine Learning Enthusiast</p>
         <p class="text-l mt-2 font-light text-justify">I am a Software Engineer specialising in backend systems, database design, and building scalable systems.<br/>I build efficient services using TypeScript, Python, and Java. While I have experience with frontend and mobile development, my core strength lies in backend logic and building scalable systems. I'm currently improving my DevOps skills with tools like Docker and CI/CD pipelines and continuously learning through hands-on projects, including machine learning applications.</p>
         <!-- Social Links -->
         <div class="flex justify-center mt-4 space-x-6">
