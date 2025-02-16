@@ -33,7 +33,8 @@
                 <p class="text-sm"><strong>Role:</strong> Backend Engineer</p>
                 <p class="text-sm"><strong>Features Built:</strong></p>
                 <ul class="list-disc ml-4 text-sm">
-                    <li><br>Lockfund<br/>: A platform that helps users save money for a specific duration, promoting disciplined financial planning.</li>
+                    <li>Lockfund: A platform that helps users save money for a specific duration, promoting disciplined financial planning.</li>
+                    <li>SavingTarget: A platform that helps users save money for a specific duration, promoting disciplined financial planning.</li>
                     <li>Payment Integration with Stripe</li>
                 </ul>
                 <p class="mt-2 text-sm">Implemented using NestJS and MongoDB with Docker containerization.</p>
