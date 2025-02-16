@@ -4,12 +4,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bede E. Hampo</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 <body class="bg-white text-black font-sans">
     <!-- Header -->
     <header class="text-center py-10 border-b border-gray-300">
         <h1 class="text-5xl font-extrabold tracking-wide">Bede E. Hampo</h1>
         <p class="text-xl mt-2 font-light">SWE - Backend Engineer | DevOps & Machine Learning Enthusiast</p>
+        <!-- Social Links -->
+        <div class="flex justify-center mt-4 space-x-6">
+            <a href="https://linkedin.com/in/yourprofile" class="text-xl text-blue-600" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="mailto:yourname@gmail.com" class="text-xl text-red-600" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="https://www.youtube.com/c/yourchannel" class="text-xl text-red-500" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://github.com/yourusername" class="text-xl text-gray-900" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://dev.to/yourusername" class="text-xl text-black" target="_blank"><i class="fab fa-dev"></i></a>
+        </div>
     </header>
 
     <!-- Main Content -->
