@@ -4,14 +4,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css">
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body class="bg-white text-black font-sans">
     <!-- Header -->
     <header class="text-center pb-10 border-b border-gray-300">
         <p class="text-xl mt-2 font-light text-justify">SWE - Backend Engineer | DevOps & Machine Learning Enthusiast</p>
         <!-- Social Links -->
-        <div class="flex justify-start mt-4 space-x-6">
+        <div class="flex justify-center mt-4 space-x-6">
             <a href="https://www.linkedin.com/in/hampoechebede" class="text-xl text-blue-600" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a href="https://github.com/bedehampo" class="text-xl text-gray-900" target="_blank"><i class="fab fa-github"></i></a>
             <a href="mailto:hampoherobede@gmail.com" class="text-xl text-red-600" target="_blank"><i class="fas fa-envelope"></i></a>
@@ -19,14 +19,14 @@
             <a href="https://www.youtube.com/@bede_hampo" class="text-xl text-red-500" target="_blank"><i class="fab fa-youtube"></i></a>
             <a href="https://www.instagram.com/bede_hampo/" class="text-primary text-decoration-none border-0" target="_blank"><i class="fab fa-instagram"></i></a>
         </div>
-        <p class="text-l mt-2 font-light text-justify">I am a Software Engineer specialising in backend systems, database design, and building scalable systems.<br/>I build efficient services using TypeScript, Python, and Java. While I have experience with frontend and mobile development, my core strength lies in backend logic and building scalable systems. I'm currently improving my DevOps skills with tools like Docker and CI/CD pipelines and continuously learning through hands-on projects, including machine learning applications.</p>
+        <p class="text-l mt-2 font-light text-justify max-w-4xl mx-auto">I am a Software Engineer specialising in backend systems, database design, and building scalable systems. I build efficient services using TypeScript, Python, and Java. While I have experience with frontend and mobile development, my core strength lies in backend logic and building scalable systems. I'm currently improving my DevOps skills with tools like Docker and CI/CD pipelines and continuously learning through hands-on projects, including machine learning applications.</p>
     </header>
 
     <!-- Main Content -->
     <main class="container py-3">
-        <div class="row g-4">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
             <!-- Activity Logs Column -->
-            <section class="col-lg-6 col-md-6 col-sm-12 bg-white border border-gray-300 rounded-lg p-6">
+            <section class="bg-white border border-gray-300 rounded-lg p-6">
                 <h2 class="text-2xl font-semibold mb-4">Activity Logs</h2>
                 <div class="mb-4">
                     <h3 class="text-lg font-bold">Week 1 - September 2025</h3>
@@ -38,7 +38,7 @@
             </section>
 
             <!-- Projects Column -->
-            <section class="col-lg-6 col-md-6 col-sm-12 bg-white border border-gray-300 rounded-lg p-4">
+            <section class="bg-white border border-gray-300 rounded-lg p-4">
                 <h2 class="text-2xl font-semibold mb-4">Projects</h2>
                 <div class="mb-4">
                     <h3 class="text-lg font-bold">MotoPay & Motobills</h3>
