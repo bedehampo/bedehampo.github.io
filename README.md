@@ -24,9 +24,9 @@
     </header>
 
     <!-- Main Content -->
-    <main class="max-w-5xl mx-auto grid grid-cols-2 gap-6 p-6">
+    <main class="max-w-5xl mx-auto grid grid-cols-2 gap-6 p-3">
         <!-- Projects Column -->
-        <section class="bg-white border border-gray-300 rounded-lg p-6">
+        <section class="bg-white border border-gray-300 rounded-lg p-4">
             <h2 class="text-2xl font-semibold mb-4">Projects</h2>
             <div class="mb-4">
                 <h3 class="text-lg font-bold">Project Name</h3>
