@@ -65,6 +65,7 @@
                         <li>Developed POS API endpoints and RBAC admin features</li>
                     </ul>
                     <p class="mt-2 text-sm">Tech Stack: Spring Boot, Express.js, NestJS, MySQL, PostgreSQL, MongoDB, Flutter, Next.js, Azure Cloud, Docker</p>
+                    <a href="https://play.google.com/store/apps/details?id=com.motobills.app" class="text-blue-600 underline text-sm block" target="_blank">Motobills Andriod Application</a>
                     <a href="https://web.motobills.com/login" class="text-blue-600 underline text-sm block" target="_blank">Motobills Application</a>
                     <a href="https://www.motobills.com/" class="text-blue-600 underline text-sm block" target="_blank">Motobills website</a>
                     <a href="https://www.motopayng.com/" class="text-blue-600 underline text-sm block" target="_blank">Motopay website</a>
